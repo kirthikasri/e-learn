@@ -1,0 +1,57 @@
+
+#title{
+  background-color: #000000;
+  text-align: center;
+  color: #fff;
+
+
+
+}
+h1{
+
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+h3{
+  font-family: Montserrat-bold;
+}
+p{
+  line-height: 1.5;
+  color: #8f8f8f;
+
+}
+a{
+    text-decoration: none;
+  
+    color: #FCF8E8;
+}
+.buttons{
+  margin: 3% 3% 3% 0;
+
+}
+#features{
+  padding: 7% 10%;
+  background-color: #000000;
+  color: #fff;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%
+}
+#testimonials{
+  background-color: #000000;
+  padding: 1% 1%;
+  text-align: center;
+  color: #8f8f8f;
+}
+.bottom-container{
+  background-color: #000000;
+  margin:0;
+  padding: 7px 0 10px;
+
+}
+.rown{
+
+  background-image: url(https://www.nvisioncenters.com/wp-content/uploads/woman-in-the-dark-working-at-computer.jpg);
+}
