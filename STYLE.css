@@ -39,6 +39,22 @@ a{
   text-align: center;
   padding: 5%
 }
+#cotoemail{
+  position: relative;
+  background-color: #fff;
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  top: 18vh;
+  justify-content: flex-start;
+  padding: 10px 10px 20px 10px;
+  align-items: center;
+  box-shadow: 0 6px 6px 4px gainsboro;
+
+
+}
 #testimonials{
   background-color: #000000;
   padding: 1% 1%;
